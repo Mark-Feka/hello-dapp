@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif, Helvetica;
+    text-align: center;
+    padding: 40px;
+    background-color: beige;
+}
+input {
+    padding: 10px;
+    width: 300px;
+}
+button {
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 16px;
+
+}
+#greetingDisplay {
+    font-weight: bold;
+    color: brown;
+}
